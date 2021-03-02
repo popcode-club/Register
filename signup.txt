@@ -1,2 +1,10 @@
-Name          Email         
-Tiffany       abc@gmail.com
+Hello, friends! Please go ahead and register a GitHub account. After creating an account, send me your account username or account email to Mrs. Weltz.
+Once it's approved, Tiffany will invite you to join the club.
+
+You'll also need to install the following tools before you start joining club meetings.
+
+1. Go to: https://www.python.org/downloads/ Install the latest version of Python.
+2. Go to: https://git-scm.com/ and download the latest Git software and install it in your PC.
+3. Go to: https://www.jetbrains.com/pycharm/download/ and click on the "Download" under "Community" then install PyCharm.
+
+The Git software helps us to share code in PyCharm. We'll discuss how to use Git in PyCharm in our meeting.
